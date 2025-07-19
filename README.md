@@ -6,7 +6,14 @@ An open-source **Android media player** app built using **Jetpack Media3** (succ
 
 ## 📸 Preview – Custom Media Player UI in Action
 
-![Android Media3 Custom Player UI](Screensho_1.png "Custom Android Media Player UI with Media3")
+
+<!-- Inside README.md -->
+<h2>📸 Screenshot</h2>
+
+<img src="Screensho_1.png" alt="Custom Media Player UI" style="max-width: 100%; width: 500px; border-radius: 8px;" />
+
+
+
 
 ---
 
