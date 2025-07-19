@@ -9,7 +9,7 @@
 ---
 
 ## 📸 Screenshot  
-![Player Screenshot](./docs/screenshot.png)  
+![Player Screenshot](.screensho_1.png)  
 *Replace `docs/screenshot.png` with the actual path to your screenshot file.*
 
 ---
